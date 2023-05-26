@@ -1,0 +1,628 @@
+  .xyz  a{
+            color: #000;
+            padding: 20px;
+            text-decoration: none;
+            text-transform: uppercase ;
+            
+       }
+ .xyz a:hover{
+        background: #ffd1dc;
+        padding: 20px;
+        text-transform: uppercase ;
+        border: 12px;
+        color: #ff1694;
+        border-radius: 10px;
+        
+       }
+       .active{
+        background: #ffd1dc;
+        padding: 20px;
+        text-transform: uppercase ;
+        border: 12px;
+        color: black;
+        border-radius: 10px;
+        
+       }
+           
+.xyz{
+    background-color: #ff1694;
+    height: 60px;
+    width:1490px ;
+    padding-top: 20px;
+    box-shadow: 5px 10px #ff66cc;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    color:#fe70bd ;
+}
+
+.xyz p{
+   
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right:370px ;
+    display: inline;
+    font-family: Cooper Black;
+    font-size: 20px;
+    color: #000;
+}
+
+.xyz b{
+    color: white;
+}
+
+.offer{
+    background-image: url(i1.jpg);
+	margin-top: 80px;
+	border: 1px;
+	border-radius: 10px;
+	height: 300px;
+	width: 380px;
+	padding: 6px;
+	display: block;
+    cursor: pointer;
+}
+.offer:hover{
+	margin-top: 70px;
+    background-color: blue;
+	border: 1px;
+	border-radius: 10px;
+	height: 300px;
+	width: 390px;
+	padding: 6px;
+	display: block;
+   cursor: pointer;
+}
+
+.offer1{
+    background-image: url(i3.jpg);
+	margin-top: 80px;
+	border: 1px;
+	border-radius: 10px;
+	height: 300px;
+	width: 380px;
+	padding: 6px;
+	background-size: cover;
+	display: block;
+    cursor: pointer;
+}
+.offer1:hover{
+	margin-top: 70px;
+    background-color: blue;
+	border: 1px;
+	border-radius: 10px;
+	height: 300px;
+	width: 390px;
+	padding: 6px;
+	background-size: cover;
+	display: block;
+   cursor: pointer;
+}
+
+
+.offer2{
+    background-image: url(i4.jpg);
+	margin-top: 80px;
+	border: 1px;
+	border-radius: 10px;
+	height: 300px;
+	width: 380px;
+	padding: 6px;
+    background-size: cover;
+	display: block;
+    cursor: pointer;
+}
+.offer2:hover{
+	margin-top: 70px;
+    background-color: blue;
+	border: 1px;
+	border-radius: 10px;
+	height: 300px;
+	width: 390px;
+	padding: 6px;
+	background-size: cover;
+	background-repeat: no-repeat;
+    display: block;
+    cursor: pointer;
+}
+
+ .ofl{
+	color: black;
+	background-color: white;
+	text-align: center;
+	margin-top: 150px;
+	padding: 10px;
+	opacity: 0.8;
+	font-family: Wide Latin;
+	font-size: 20px;
+	text-shadow: 2px;
+	
+}
+
+.offc{
+	display: flex;
+	justify-content: space-between;
+	margin: 20px;
+	padding: 15px;
+}
+
+
+.type{
+	
+	height: 200px;
+	width: 600px;
+	margin-right: 10px;
+	margin-left: 10px;
+	 border: 4px;
+    border-radius: 10px;
+    border-style: solid;
+    color: #fe249a;
+    
+}
+.type:hover{
+	
+	height: 200px;
+	width: 610px;	
+    border: 2px;
+    border-radius: 5px;
+    border-style: double;
+    background-color: #fe249a ;
+    color: white;
+}
+.logo1{
+        height: 20px;
+        width:20px;
+        margin-left:500px ;
+        margin-bottom: px;
+        display: block;
+}
+.ans{
+	text-align: center;
+	font-family: Bodoni MT Black;
+	font-size: 25px;
+	text-shadow: 2px 2px 4px gray;
+}
+.typef{
+	display: flex;
+	margin: 35px;
+}
+.type p{
+	text-align: center;
+	font-size: 30px;
+}
+.vnv{
+	text-align: center;
+	font-size: 20px;
+}
+
+.btn{
+	background-color: green;
+	text-decoration: none;
+	border-color: white;
+	text-color: white;
+	padding: 15px;
+	text-align: center;
+	display: inline-block;
+	margin: 10px 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+.btn{
+	background-color: green;
+	text-decoration: none;
+	border-color: white;
+	border-radius: 10px;
+	color: white;
+	padding: 15px;
+	text-align: center;
+	display: inline-block;
+	margin: 10px 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+	
+.about{
+	padding-top: 50px;
+	font-size: 25px;
+	text-align: center;	
+	height: 150px;
+	background-image: linear-gradient(#fff,#fd5da8,#fff);
+}
+ .about p{
+	   font-family: Eras Bold ITC ;
+	   font-size: 30px;
+	   position: absolute;
+	   font-size: 1.5em;
+	   padding-left: 400px;
+	   background: linear-gradient(#000,#ff1694);
+	   -webkit-background-clip: text;
+	    color: transparent;
+}
+
+.aboutbox{
+	   height: 348px;
+	   width: 1324px;
+	   box-shadow: 4px 3px 5px 4px #b9bbb6;
+}
+.aboutbox:hover{
+	   height: 352px;
+	   width: 1328px;
+	   box-shadow: 4px 3px 5px 4px #48494b;
+}
+
+
+.con1{
+	height: 150px;
+	padding-left:520px ;
+	padding-top: 20px;
+	background-image: linear-gradient(#fff,#ff007f);
+	
+}
+.con1 img{
+	cursor: pointer;
+	padding-left:20px ;	
+}
+
+
+
+.foot{
+		height:150px;
+        width:1335px;
+        background-color: black;
+        color: white;
+        
+        padding-top: 50px;
+        font-size: 30px;
+        text-align: center;
+}
+.foot img{
+	padding-left: 20px;
+	cursor: pointer;
+}
+
+/* recent order text */
+.order1{
+    margin-top: 100px;
+	text-align: center;
+	font-family: Bodoni MT Black;
+	font-size: 25px;
+	text-shadow: 2px 2px 4px gray;
+}
+/* recent order */
+.order2{
+	height: 200px;
+	width: 600px;
+	border: 2px solid;
+	border-radius: 5px;
+	border-color:  #ff1694;
+	padding: 2px;
+	display: flex;
+	margin-left: 50px;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+.order3{
+	padding-left: 40px;
+	font-size: 20px;
+	color: #ff1694 ;
+
+}
+.order4{
+	color: green;
+}
+.order5{
+	color: red;
+}
+.order6{
+	color: gray;
+}
+
+/* order history text */
+
+.order7{
+    margin-top: 40px;
+	text-align: center;
+	font-family: Bodoni MT Black;
+	font-size: 25px;
+	text-shadow: 2px 2px 4px gray;
+}
+
+/* order history */
+
+.order8{
+	height: 200px;
+	width: 600px;
+	border: 4px solid;
+	border-radius: 5px;
+	border-color: green;
+	padding: 2px;
+	display: flex;
+	margin-left: 50px;
+	margin-bottom: 30px;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+.order9{
+	padding-left: 40px;
+	font-size: 20px;
+	color: gray;
+}
+.order10{
+	color: gray;
+}
+.order11{
+	color: gray;
+}
+.order12{
+	color: green;
+	font-size: 30px;
+}
+.order13{
+	display: flex;
+}
+.order14{
+	background-image: linear-gradient(#fff,#fd5da8,#fff);
+}
+
+.add{
+	height: 500px;
+	width: 1085px;
+	
+	padding-left: 250px;
+	
+	background-image: linear-gradient(#fff,#ff007f,#fff);
+
+}
+
+/* login from */
+
+.lf1{
+	background-color: ;
+	border-radius: 10px;
+	height: 500px;
+	width: 450px;
+	margin-top: 110px;
+	margin-left: 400px;
+	box-shadow: 4px 4px 5px 5px #808588;
+	margin-bottom: 50px ;
+}
+.lf2{
+	background-color: #fd5da8;
+	border-radius: 10px 10px 0px 0px;
+	height: 90px;
+	width: 450px;
+	margin-top: 130px;
+	text-align: center;
+    padding-top: 10px;
+    font-family: Bodoni MT Black;
+    font-size: 30px;
+    color: #fff;
+}
+.lf3 input[type=text]{
+	width: 60%;
+	padding: 12px 30px;
+	margin-left: 80px;
+	border-radius: 5px;
+	box-sizing: border-box;
+	text-align: center;
+	margin-top: 40px;
+	font-size: 20px;
+	text-decoration: none;
+	border: 2px solid #ff1694;
+
+}
+
+.lf3 input[type=password]{
+	width: 60%;
+	padding: 12px 30px;
+	margin-top: 20px ;
+	margin-left: 80px;
+	border-radius: 5px;
+	box-sizing: border-box;
+	text-align: center;	
+	font-size: 20px;
+	text-decoration: none;
+	border: 2px solid #ff1694;
+
+}
+
+.lf6{
+	width: 20px;
+	margin-top: 130px;
+	margin-left: 200px;
+	cursor: pointer;
+
+}
+
+.lf7{
+	font-size: 20px;
+	text-decoration: none;
+	margin-top: 10px;
+	margin-left: 190px;
+}
+.pf1{
+	margin-left: 70px;
+	font-size: 21px;
+
+}
+.pf1 label{
+	color:#ff1694 ;
+}
+
+
+/* veg-store */
+.card1{
+	height: 430px;
+	width: 300px;	
+	margin-top: 20px;
+	margin-left: 30px;
+	box-shadow: 4px 4px 5px 5px #808588;
+}
+.imgs{
+	
+	margin-left: 5px;
+	padding-top: 5px;
+}
+
+/* card */
+.card2{	
+	padding-left: 20px;
+	font-size: 20px;
+	color: #ff1694 ;
+}
+.card3{	
+	padding-left: 20px;
+	font-size: 20px;
+	color: gray ;
+	font-size: 15px;
+}
+.card4{	
+	padding-left: 20px;
+	font-size: 20px;
+	color: green ;
+	font-size: 18px;
+}
+.card5{	
+	padding-left: 20px;
+	font-size: 20px;
+	color: gray ;
+	font-size: 15px;
+}
+.card6{
+	display: flex;
+}
+.btn2{
+	background-color: green;
+	text-decoration: none;
+	border-color: white;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	margin: 10px 3px;
+	font-size: 10px;
+	cursor: pointer;
+	padding-left: 10px;
+	margin-left: 110px;
+	border-radius: 5px;
+
+}
+.row1{
+	display: inline-flex;
+}
+
+/* search bar */
+.search input[type=search]{
+	padding-top: 150px;
+    width: 105%;
+	padding: 12px 30px;
+	margin-left: 250px;
+	border-radius: 5px;
+	box-sizing: border-box;
+	text-align: center;
+	margin-top: 110px;
+	font-size: 20px;
+	text-decoration: none;
+	border: 2px solid #ff1694;
+	border-radius: 20px 0px 0px 20px;
+
+}
+.search1{
+	height: 44px;
+	width: 70px;
+	background-color: green;
+	margin-top: 108px;
+	margin-left: 275px;
+	padding-top: 10px;
+	padding-left: 30px;
+	border-radius: 0px 20px 20px 0px;
+	cursor: pointer;
+}
+.search2{
+display: flex;
+}
+
+/* drop down */
+
+.filt{
+	margin-top: 108px;
+	padding-left: 30px;
+}
+
+.dropbtn {
+  background-color: green;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.foot1{
+		height:150px;
+        width:1335px;
+        background-color: black;
+        color: white;
+        margin-top: 20px;
+        padding-top: 50px;
+        font-size: 30px;
+        text-align: center;
+}
+.foot1 img{
+	padding-left: 20px;
+	cursor: pointer;
+}
+
+.pay{
+	font-size: 20px;
+}
+.b1{
+	border: 2px solid;
+	margin-left:30px ;
+	margin-top:35px ;
+	margin-right:30px ;
+	padding: 20px;
+	border-color:#ff1694 ;
+
+}
+
+.b2s{
+	margin-left:150px ;
+	margin-right:30px ;
+	margin-top:10px;
+}
+
